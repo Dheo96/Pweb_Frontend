@@ -1,0 +1,161 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.login {
+    height: 100vh;
+}
+
+.header h1{
+    color: #1C1C1C;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.header p{
+    color: #1C1C1C;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+   
+}
+
+.login-form label{
+    color: #1C1C1C;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 24px;
+}
+
+.login-form input{
+
+    flex-shrink: 0;
+    border-radius: 13px;
+    background: #F2F2F2;
+}
+
+.login-form a{
+    color: #1C1C1C;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    margin-top : 20px 0 ;
+    display : block;
+}
+
+.login-form .signin{
+    width: 100%;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 13px;
+    background: var(--secondary_oceanblue, #0866FF);
+    color : white;
+    margin : 10px 0 25px 0;
+    border: none;
+}
+
+.login-form span {
+    color: #1C1C1C;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    }
+
+.login-form span a {
+    font-weight: 700;
+    color: var(--secondary_oceanblue, #0866FF);
+}
+
+.login-right{
+    width: 1001px;
+    height: 800px;
+    flex-shrink: 0;
+}
+
+.login-right .carousel-inner{
+    width : 100%;
+    height: 100vh;
+    flex-shrink: 0;
+    margin:0 auto;
+}
+
+
+.signup-form label{
+    color: #1C1C1C;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 24px;
+}
+
+.signup-form input{
+
+    flex-shrink: 0;
+    border-radius: 13px;
+    background: #F2F2F2;
+}
+
+.signup-form a{
+    color: #1C1C1C;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    margin-top : 20px 0 ;
+    display : block;
+}
+
+.signup-form .signup{
+    width: 100%;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 13px;
+    background: var(--secondary_oceanblue, #0866FF);
+    color : white;
+    margin : 10px 0 25px 0;
+    border: none;
+}
+
+.signup-form span {
+    color: #1C1C1C;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    }
+
+.signup-form span a {
+    font-weight: 700;
+    color: var(--secondary_oceanblue, #0866FF);
+}
+
+.signup-right{
+    width: 1001px;
+    height: 800px;
+    flex-shrink: 0;
+}
+
+.signup-right .carousel-inner{
+    width : 100%;
+    height: 100vh;
+    flex-shrink: 0;
+    margin:0 auto;
+}
